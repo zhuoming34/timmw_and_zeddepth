@@ -12,3 +12,6 @@ As of Jan. 2022, depth images are not needed to be cropped before feeding into n
 * **postproc_dep_030623.m**
   * process depth data to generate 2D depth images with color-coded limits
   * the depth data is the one extracted from SVO (using ZED SDK or other latest methods)
+  
+## data1210
+This is a sample set of data collected by 21-22 senior design team
